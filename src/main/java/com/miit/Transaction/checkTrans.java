@@ -1,4 +1,4 @@
-package Transaction;
+package com.miit.Transaction;
 
 import java.sql.Timestamp;
 import java.util.List;

@@ -1,4 +1,4 @@
-package Transaction;
+package com.miit.Transaction;
 
 import java.io.FileWriter;
 import java.io.IOException;
